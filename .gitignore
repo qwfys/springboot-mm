@@ -12,3 +12,4 @@ bin
 .settings
 logback
 .DS_Store
+out
